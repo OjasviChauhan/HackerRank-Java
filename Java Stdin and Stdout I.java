@@ -8,8 +8,6 @@ public class Solution {
         int b = scan.nextInt();
         int c = scan.nextInt();
         System.out.println(a);
-        // Complete this line
-        // Complete this line
         System.out.println(b);
         System.out.println(c);
     }
