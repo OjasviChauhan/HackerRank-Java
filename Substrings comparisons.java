@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Solution {
     public static String getSmallestAndLargest(String s, int k) {
         int i,j;
@@ -24,7 +23,6 @@ public class Solution {
         
         return smallest + "\n" + largest;
     }
-    
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String s = scan.next();
