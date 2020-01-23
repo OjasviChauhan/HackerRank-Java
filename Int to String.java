@@ -13,7 +13,6 @@ public class Solution {
    //String s=???; Complete this line below
     String s = "" + n;
    //Write your code here
-
    
    if (n == Integer.parseInt(s)) {
     System.out.println("Good job");
@@ -25,7 +24,6 @@ public class Solution {
   }
  }
 }
-
 //The following class will prevent you from terminating the code using exit(0)!
 class DoNotTerminate {
 
