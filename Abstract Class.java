@@ -8,7 +8,7 @@ abstract class Book{
 }
 class MyBook extends Book{
     void setTitle(String s){
-      title = s;  
+      title=s;  
     }
 }
 public class Main{
